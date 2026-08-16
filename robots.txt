@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-f3hpl2.jambul126.xyz/sitemap.xml
